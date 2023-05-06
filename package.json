@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --dist-dir docs --public-url /FE22-js2-slutprojekt-Viktor-Johansson/",
+    "build": "parcel build ./src/index.html --dist-dir docs --public-url /FE22-js2-slutprojekt-Viktor-Johansson-ny/",
     "clean": "del-cli ./.parcel-cache ./docs ./dist"
   },
   "author": "",
